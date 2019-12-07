@@ -9,7 +9,15 @@ public class AulaGit {
         System.out.println("Criamos um novo branch");
         System.out.println("o alan esta por aqi");
         System.out.println ("O pequeno gafanhoto passou por aqui.");
-    }
+               
+        System.out.println ("Criando notas para o projeto...");
+        System.out.println ("oque não vai faltar é notas...");
+
+    
     
     }
-     
+
+    }
+    
+    
+   
