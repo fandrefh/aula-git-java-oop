@@ -7,6 +7,7 @@ public class AulaGit {
         System.out.println(curso);
         // Nova alteração no Branch develop
         System.out.println("Criamos um novo branch");
+        System.out.println ("O pequeno gafanhoto passou por aqui.");
     }
     
 }
